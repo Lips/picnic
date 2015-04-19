@@ -5,8 +5,8 @@ categories: ["Register Help"]
 ---
 
 
-## For items with no container,
-or in a container with no tare (plastic bag, compostable bag)
+## For items with no container, or in a container with no tare (plastic bag, compostable bag)
+
 > Place item on scale → *scale* → enter price per lb → DEPT. KEY
 
 ## Example Sale: Dried mango @ $9.31/Lb

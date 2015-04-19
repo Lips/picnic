@@ -1,5 +1,5 @@
 ---
-title: Reloading Price Guns
+title: Reloading Price Guns (blank line)
 layout: page
 categories: ["store equipment"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Reloading Price Guns
+title: Reloading Price Guns (2 blank lines)
 layout: page
 categories: ["store equipment"]
 ---
@@ -8,5 +8,6 @@ categories: ["store equipment"]
 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/UiWCLBYbkJk" frameborder="0" allowfullscreen></iframe>
-<br />
+
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/aqNB-GvHduw" frameborder="0" allowfullscreen></iframe>
