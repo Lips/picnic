@@ -1,5 +1,5 @@
 ---
-title: Using the Scale
+title: Register Help
 layout: page
 ---
 
