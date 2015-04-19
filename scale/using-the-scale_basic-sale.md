@@ -5,13 +5,13 @@ categories: ["Register Help"]
 ---
 
 
-For items with no container, or in a container with no tare (plastic bag, compostable bag):  
+## For items with no container, or in a container with no tare (plastic bag, compostable bag)
 > Place item on scale → *scale* → enter price per lb → DEPT. KEY
 
-Dried mango @ $9.31/Lb:  
+## Dried mango @ $9.31/Lb
 > Place mango on scale → *scale* → 931 →  *bulk lb.*
 
-Bananas @ $0.94/Lb:  
+## Bananas @ $0.94/Lb
 > Place bananas on scale → *scale* → 94 → *produce lb.*
 
 The price per lb., total weight and cost of item will be displayed on the receipt.
