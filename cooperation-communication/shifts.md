@@ -16,11 +16,9 @@ Asking a member who works an overlapping shift to "cover" for you, is *not* equi
 
 ## Finding Coverage
 
-> You're more likely to find coverage if you include all the important information in the subject, like so: Subject: Coverage needed, Wed 12/15, 1-3:15pm
-
 1. Find a replacement. Many members organize shift trades:
 
-	A) Via the co-op mailing lists: See our [list help page](http://lips.github.io/picnic/cooperation-communication/email-lists/) for instructions on how to join the lists.
+	A) Via the co-op mailing lists: See our [list help page](http://lips.github.io/picnic/cooperation-communication/email-lists/) for instructions on how to join the lists. When posting coverage requests, you should include all relevant details in the subject line, e.g. "Subject: Coverage needed, Wed 12/15, 1-3:15pm"
 
 	B) Use the co-op member directory ([PDF version](http://4thstreetfoodcoop.org/twiki/pub/Members/WebHome/CurrentCoopDirectory.pdf)), also found in the store) to contact other members directly. It can be helpful to contact people that work the at same time as you do on other days of the week, or the person scheduled to come in before/after you.
 
