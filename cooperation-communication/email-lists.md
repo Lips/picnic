@@ -1,14 +1,16 @@
 ---
-title: Subscribing to Lists
+title: Coop Email Lists
 layout: page
 categories: ["Blank"]
 ---
 
 
-## Subscribing to Lists
+## 4th Street Food Coop Email Lists
 
 Some of the 4th Street mailing lists are managed using [Mailman](http://www.gnu.org/software/mailman/), free and open source software, installed on our server at [May First/People Link](http://www.mayfirst.org/).  
 Those lists are managed and/or moderated by the [Information Systems working group](http://4thstreetfoodcoop.org/bin/wiki/foodcoop/view/Info_Sys/WebHome), please [contact them](http://foodcoop.mayfirst.org/contact) with any problems or suggestions.
+
+Some other lists are hosted as Google Groups.
 
 ## General lists
 ### 4-alerts
