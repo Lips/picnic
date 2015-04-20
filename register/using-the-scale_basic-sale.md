@@ -1,7 +1,7 @@
 ---
 title: Using the Scale (Basic sale)
 layout: page
-categories: ["Register Help"]
+categories: ["Register"]
 ---
 
 
