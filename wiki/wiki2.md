@@ -1,7 +1,7 @@
 ---
 title: Wiki2
 layout: page
-categories: ["Blank","blanco"]
+categories: ["Information Systems"]
 ---
 
 ## todo
