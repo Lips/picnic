@@ -1,5 +1,5 @@
 ---
-title: Shifts
+title: Shift Coverage Responsibilities
 layout: page
 categories: ["Blank"]
 ---

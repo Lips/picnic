@@ -4,6 +4,8 @@ layout: page
 categories: ["Blank"]
 ---
 
+## How to Make a Proposal
+
 1. Know where to submit it (either direct to the list, or to a Working Group first)  
 * If your proposal overlaps with the responsibilities of a working group, send it to the group before posting to the list. They may be able to take action on it themselves; otherwise they'll ask you to present it to the General Membership.
 * If the proposal doesn't fit with any particular working group, or if a you feel the WG hasn't given your idea a fair hearing, you can present it to the General Membership yourself by posting it on the list.

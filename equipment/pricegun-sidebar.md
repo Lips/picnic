@@ -1,5 +1,5 @@
 ---
-title: Reloading Price Guns-sidebar
+title: Reloading Priceguns
 layout: page
 categories: ["store equipment"]
 ---
