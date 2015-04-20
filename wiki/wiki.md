@@ -1,7 +1,7 @@
 ---
 title: Wiki
 layout: page
-categories: ["Blank"]
+categories: ["Information Sysyems"]
 ---
 
 ## todo
