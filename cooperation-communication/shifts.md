@@ -18,13 +18,12 @@ Asking a member who works an overlapping shift to "cover" for you, is *not* equi
 
 1. Find a replacement. Many members organize shift trades:
 
-	A) Via the co-op mailing lists: See our [list help page](http://lips.github.io/picnic/cooperation-communication/email-lists/) for instructions on how to join the lists.<br />You're more likely to find coverage if you include all the important information in the subject, like so:
-
-	<blockquote>Subject: Coverage needed, Wed 12/15, 1-3:15pm
-</blockquote>
+	A) Via the co-op mailing lists: See our [list help page](http://lips.github.io/picnic/cooperation-communication/email-lists/) for instructions on how to join the lists.
 
 	B) Use the co-op member directory ([PDF version](http://4thstreetfoodcoop.org/twiki/pub/Members/WebHome/CurrentCoopDirectory.pdf)), also found in the store) to contact other members directly. It can be helpful to contact people that work the at same time as you do on other days of the week, or the person scheduled to come in before/after you.
 </blockquote>
+
+> You're more likely to find coverage if you include all the important information in the subject, like so: Subject: Coverage needed, Wed 12/15, 1-3:15pm
 
 2. Contact your shift partner(s) to alert them you cannot make your shift, and tell them who'll be covering for you.
 
