@@ -1,6 +1,6 @@
 ---
-title: Cooperation & Communication
+title: Proposals
 layout: page
 ---
 
-## Blank
+## Todo
