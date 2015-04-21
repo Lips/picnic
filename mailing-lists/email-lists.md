@@ -1,9 +1,10 @@
 ---
 title: Coop Email Lists
 layout: page
-categories: ["Blank"]
+categories: 
+  - Blank
+published: true
 ---
-
 
 ## 4th Street Food Coop Email Lists
 
